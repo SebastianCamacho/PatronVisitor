@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\visitor\\visitorreportesir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:visitor\\visitorreportesir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\models\\planjubilacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:models\\planjubilacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\models\\iseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:models\\iseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\patrones de dise\u00F1o - visitor\\patronvisitor\\visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BCA22-387C-4356-8489-17CE1CAC3E0B}|PatronVisitor.csproj|solutionrelative:visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 394,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorReporteSir.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Visitor\\VisitorReporteSir.cs",
+              "RelativeDocumentMoniker": "Visitor\\VisitorReporteSir.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Visitor\\VisitorReporteSir.cs",
+              "RelativeToolTip": "Visitor\\VisitorReporteSir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:40:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:09:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanJubilacion.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Models\\PlanJubilacion.cs",
+              "RelativeDocumentMoniker": "Models\\PlanJubilacion.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Models\\PlanJubilacion.cs",
+              "RelativeToolTip": "Models\\PlanJubilacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:09:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SegurosController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Controllers\\SegurosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegurosController.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Controllers\\SegurosController.cs",
+              "RelativeToolTip": "Controllers\\SegurosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:41:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Visitor\\IVisitor.cs",
+              "RelativeDocumentMoniker": "Visitor\\IVisitor.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Visitor\\IVisitor.cs",
+              "RelativeToolTip": "Visitor\\IVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:37:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISeguro.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Models\\ISeguro.cs",
+              "RelativeDocumentMoniker": "Models\\ISeguro.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\PATRONES DE DISE\u00D1O - VISITOR\\PatronVisitor\\Models\\ISeguro.cs",
+              "RelativeToolTip": "Models\\ISeguro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:35:55.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
